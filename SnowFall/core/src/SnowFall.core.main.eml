@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../core/src"/>
+	<levels>
+		<level name="Gradle: com.badlogicgames.gdx:gdx:1.9.10" value="project"/>
+	</levels>
+</component>
